@@ -1,0 +1,7 @@
+.place__image {
+  grid-area: image;
+  width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-bottom: 100%;
+}

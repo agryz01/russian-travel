@@ -1,0 +1,7 @@
+.cover__background {
+  max-width: 1184px;
+  height: 740px;
+  background-image: url(../../../images/__background.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}

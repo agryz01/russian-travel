@@ -1,8 +1,8 @@
 .lead__image {
   background-image: url(../../../images/__image.jpg);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   max-width: 100%;
-  height: 615px;
-  margin: 0 auto;
+  margin: 64px auto 0;
+  padding-bottom: 62.5%;
 }
