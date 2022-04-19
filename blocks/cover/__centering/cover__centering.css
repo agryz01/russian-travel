@@ -7,13 +7,9 @@
   top: calc(50% - 125px);
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 769px) and (max-width: 1024px) {}
 
-}
-
-@media (min-width: 721px) and (max-width: 768px) {
-
-}
+@media (min-width: 721px) and (max-width: 768px) {}
 
 @media (min-width: 361px) and (max-width: 720px) {
   .cover__centering {

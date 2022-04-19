@@ -7,18 +7,17 @@
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-  .header {
-  }
+  .header {}
 }
 
 @media (min-width: 421px) and (max-width: 768px) {
   .header {
     padding: 28px 24px 0;
-  }  
+  }
 }
 
 @media (max-width: 420px) {
   .header {
     padding: 16px 16px 0;
-  }  
+  }
 }

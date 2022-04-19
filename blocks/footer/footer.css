@@ -4,9 +4,7 @@
   justify-content: space-between;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  
-}
+@media (min-width: 769px) and (max-width: 1024px) {}
 
 @media (min-width: 361px) and (max-width: 768px) {
   .footer {

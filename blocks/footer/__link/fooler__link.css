@@ -5,13 +5,9 @@
   color: #FFFFFF;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  
-}
+@media (min-width: 769px) and (max-width: 1024px) {}
 
-@media (min-width: 720px) and (max-width: 768px) {
-
-}
+@media (min-width: 720px) and (max-width: 768px) {}
 
 @media (min-width: 321) and (max-width: 720) {
   .fooler__link {

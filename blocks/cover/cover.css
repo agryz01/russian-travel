@@ -2,9 +2,7 @@
   padding: 96px 3.7% 0;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-
-}
+@media (min-width: 769px) and (max-width: 1024px) {}
 
 @media (min-width: 420px) and (max-width: 768px) {
   .cover {

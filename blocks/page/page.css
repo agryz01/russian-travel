@@ -7,6 +7,7 @@
     url("../fonts/Inter-Regular.woff2") format("woff2"),
     url("../fonts/Inter-Regular.woff") format("woff");
 }
+
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -16,6 +17,7 @@
     url("../fonts/Inter-Bold.woff2") format("woff2"),
     url("../fonts/Inter-Bold.woff") format("woff");
 }
+
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -25,6 +27,7 @@
     url("../fonts/Inter-Black.woff2") format("woff2"),
     url("../fonts/Inter-Black.woff") format("woff");
 }
+
 :root {
   background-color: #E5E5E5;
 }

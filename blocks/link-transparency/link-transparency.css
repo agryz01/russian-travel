@@ -2,6 +2,7 @@
   opacity: 1;
   transition: opacity .5s;
 }
+
 .link-transparency:hover {
-  opacity: .8 ;
+  opacity: .8;
 }

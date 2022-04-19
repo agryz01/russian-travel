@@ -9,9 +9,7 @@
   text-align: center;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-  
-}
+@media (min-width: 769px) and (max-width: 1024px) {}
 
 @media (min-width: 421px) and (max-width: 768px) {
   .lead__subtitle {
