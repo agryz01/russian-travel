@@ -5,3 +5,20 @@
   padding: 28px 48px 0;
   margin: 0 auto;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .header {
+  }
+}
+
+@media (min-width: 421px) and (max-width: 768px) {
+  .header {
+    padding: 28px 24px 0;
+  }  
+}
+
+@media (max-width: 420px) {
+  .header {
+    padding: 16px 16px 0;
+  }  
+}

@@ -4,3 +4,13 @@
   margin: 0;
   padding: 0;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {}
+
+@media (min-width: 721px) and (max-width: 768px) {}
+
+@media (max-width: 720px) {
+  .footer__links {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,30 @@
+.cover__centering {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  position: absolute;
+  top: calc(50% - 125px);
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+@media (min-width: 721px) and (max-width: 768px) {
+
+}
+
+@media (min-width: 361px) and (max-width: 720px) {
+  .cover__centering {
+    top: calc(50% - 90px);
+    gap: 16px;
+  }
+}
+
+@media (max-width: 360px) {
+  .cover__centering {
+    top: calc(50% - 67px);
+    gap: 16px;
+  }
+}

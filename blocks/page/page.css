@@ -25,6 +25,9 @@
     url("../fonts/Inter-Black.woff2") format("woff2"),
     url("../fonts/Inter-Black.woff") format("woff");
 }
+:root {
+  background-color: #E5E5E5;
+}
 
 .page {
   background-color: #2A2C2F;

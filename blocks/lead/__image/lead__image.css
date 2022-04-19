@@ -6,3 +6,21 @@
   margin: 64px auto 0;
   padding-bottom: 62.5%;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .lead__image {
+    margin: 56px auto 0;
+  }
+}
+
+@media (min-width: 421px) and (max-width: 768px) {
+  .lead__image {
+    margin: 56px auto 0;
+  }
+}
+
+@media (max-width: 420px) {
+  .lead__image {
+    margin: 40px auto 0;
+  }
+}

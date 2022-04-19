@@ -4,3 +4,18 @@
   background-image: url(../../../images/__logo.svg);
   background-size: cover;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  
+}
+
+@media (min-width: 421px) and (max-width: 768px) {
+  
+}
+
+@media (max-width: 420px) {
+  .header__logo {
+    width: 142px;
+    height: 42px;
+  }
+}

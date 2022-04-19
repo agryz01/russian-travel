@@ -8,3 +8,28 @@
   margin: 0;
   align-self: center;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+}
+
+@media (min-width: 721px) and (max-width: 768px) {
+
+}
+
+@media (min-width: 361px) and (max-width: 720px) {
+  .cover__title {
+    max-width: 300px;
+    font-size: 42px;
+    line-height: 1.09;
+  }
+}
+
+
+@media (max-width: 360px) {
+  .cover__title {
+    max-width: 250px;
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}

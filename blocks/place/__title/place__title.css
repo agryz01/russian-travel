@@ -6,3 +6,21 @@
   color: #FFFFFF;
   margin: 0;
 }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  
+}
+
+@media (min-width: 421px) and (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 1.1;
+  }
+}
+
+@media (max-width: 420px) {
+  .place__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+}

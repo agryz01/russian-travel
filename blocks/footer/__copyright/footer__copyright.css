@@ -4,4 +4,11 @@
   line-height: 1.14;
   color: #FFFFFF;
   margin: 0;
+  align-self: flex-end;
+}
+
+@media (max-width: 360px) {
+  .footer__copyright {
+    align-self: flex-start;
+  }
 }
