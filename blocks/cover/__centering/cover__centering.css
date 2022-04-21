@@ -9,17 +9,18 @@
 
 @media (min-width: 769px) and (max-width: 1024px) {}
 
-@media (min-width: 721px) and (max-width: 768px) {}
+@media (min-width: 720px) and (max-width: 768px) {}
 
-@media (min-width: 361px) and (max-width: 720px) {
+@media (min-width: 420px) and (max-width: 719px) {
   .cover__centering {
-    top: calc(50% - 90px);
-    gap: 16px;
+    top: calc(50% - 91px);
+    gap: 18px;
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   .cover__centering {
     top: calc(50% - 67px);
+    gap: 16px;
   }
 }
