@@ -16,9 +16,4 @@
   }
 }
 
-@media (max-width: 320px) {
-  .footer__link {
-    font-size: 24px;
-    line-height: 1;
-  }
-}
+@media (max-width: 320px) {}

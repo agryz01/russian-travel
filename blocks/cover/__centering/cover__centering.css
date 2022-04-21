@@ -21,6 +21,5 @@
 @media (max-width: 360px) {
   .cover__centering {
     top: calc(50% - 67px);
-    gap: 16px;
   }
 }
